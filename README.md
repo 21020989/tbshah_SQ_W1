@@ -6,6 +6,10 @@ To run the sketch locally, open `index.html` in Google Chrome. No additional set
 
 To play via GitHub Pages, visit the link provided on the submission page.
 
+Once a difference in spotted between the two images, click on it and a translucent circle with a random color will be placed ontop of it.
+
+To clear off the circles, refresh the page.
+
 ## Assets
 
 | File                       | Source                                                                     |
