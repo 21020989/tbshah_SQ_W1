@@ -13,7 +13,13 @@ function setup() {
   textAlign(CENTER, TOP);
   fill(0);
   noStroke();
-  text("Find the 8 Differences by clicking on them!", width / 2, 10);
+  text(
+    "Find the 8 Differences by clicking on them!" +
+      "\n" +
+      "refresh to clear the page",
+    width / 2,
+    10,
+  );
   noLoop();
 }
 
