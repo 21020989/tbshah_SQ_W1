@@ -1,7 +1,7 @@
 let bgImage;
 
 function preload() {
-  bgImage = loadImage("Assets/images/beaver.jpg"); // Replace with your image filename
+  bgImage = loadImage("Assets/images/beaver.jpg");
 }
 
 function setup() {
