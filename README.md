@@ -18,4 +18,4 @@ To clear off the circles, refresh the page.
 
 ## References
 
-N/A
+[1] PrintItFree. 2026. Beaver Dam Spot the Difference Picture Puzzle. Image. Retrieved May 20, 2026 from https://www.printitfree.net/beaver-dam-spot-the-difference-picture-puzzle/
